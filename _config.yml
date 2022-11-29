@@ -2,7 +2,7 @@
 title:               Korean
 tagline:             'learning by typing'
 description:         'A DC <a href="https://github.com/MiaHub/Korean" target="_blank">inspiration</a>'
-url:                 'https://github.com/MiaHub/Korean'
+url:                 "https://miahub.github.io/Korean/"
 baseurl:             ""
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              DC
-  url:                
+  url:               "https://miahub.github.io/Korean/" 
   email:             dietercho@gmail.com
 
 # Gems
