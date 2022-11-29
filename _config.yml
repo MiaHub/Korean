@@ -2,8 +2,8 @@
 title:               Korean
 tagline:             'learning by typing'
 description:         'A DC <a href="https://github.com/MiaHub/Korean" target="_blank">inspiration</a>'
-url:                 https://github.com/MiaHub/Korean
-baseurl:             ''
+url:                 'https://github.com/MiaHub/Korean'
+baseurl:             ""
 paginate:            5
 permalink:           pretty
 
