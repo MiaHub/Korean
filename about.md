@@ -4,8 +4,8 @@ title: About
 ---
 
 <p class="message">
-  I will try to write down most of what i learn.
-  So that i can remember it better.
+  I will try to write down most of what I learn.
+  So that I can remember it better.
 </p>
 
 #### Style:

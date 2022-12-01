@@ -3,6 +3,34 @@ layout: post
 title: Example content
 ---
 
+## Style Links
+
+* [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+* [Mermaid-Editor](https://mermaid-js.github.io/mermaid-live-editor/)
+
+<pre class="mermaid">
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectivness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+</pre>
+
+<details><summary>Does work</summary>
+  Does it ?
+</details>
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
