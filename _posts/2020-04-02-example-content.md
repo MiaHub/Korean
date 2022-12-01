@@ -11,20 +11,20 @@ title: Example content
 <pre class="mermaid">
 mindmap
   root((mindmap))
-    Origins
-      Long history
+    오늘
+      today
       ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Research
-      On effectivness<br/>and features
+    내일
+      tomorrow
       On Automatic creation
         Uses
             Creative techniques
             Strategic planning
             Argument mapping
-    Tools
-      Pen and paper
+    어제
+      yesterday
       Mermaid
 </pre>
 
