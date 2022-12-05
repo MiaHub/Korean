@@ -13,9 +13,8 @@ mindmap
   root((mindmap))
     오늘
       today
-      ::icon(fa fa-book)
       Popularisation
-        British popular psychology author Tony Buzan
+      British popular psychology author Tony Buzan
     내일
       tomorrow
       On Automatic creation
