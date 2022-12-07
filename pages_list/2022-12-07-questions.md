@@ -13,15 +13,20 @@ mindmap
     Why?
      왜?
     How (much)?
-     얼마? 몇?
+     얼마? 
+     몇?
     What?
      무엇?
     What kind of? Which?
-     어느? 부슨? 어떤? 
+     어느? 
+     부슨? 
+     어떤? 
     Who?
      누구
     How?
-     어떻게? 어떻습니까? 어때요?   
+     어떻게? 
+     어떻습니까? 
+     어때요?   
 </pre>
 
 
