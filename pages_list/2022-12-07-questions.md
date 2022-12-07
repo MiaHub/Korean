@@ -12,12 +12,12 @@ mindmap
      언제?
     Why?
      왜?
-    How (much)?
+    How_(much)?
      얼마? 
      몇?
     What?
      무엇?
-    What kind of? Which?
+    What_kind_of?
      어느? 
      부슨? 
      어떤? 
