@@ -3,21 +3,24 @@ layout: page
 title: Questions
 ---
 
+* [Where](#어디)
+* [When](#언제)
+
 <pre class="mermaid">
 mindmap
-  root((questions))
+  root)questions(
     Where? 
      어디?             
     When?
      언제?
     Why?
-     왜?
-    How_(much)?
+     왜?  
+    How "much"?
      얼마? 
      몇?
     What?
-     무엇?
-    What_kind_of?
+     무엇?     
+    What kind of? Which?
      어느? 
      부슨? 
      어떤? 
@@ -26,7 +29,7 @@ mindmap
     How?
      어떻게? 
      어떻습니까? 
-     어때요?   
+     어때요?    
 </pre>
 
 
@@ -52,4 +55,5 @@ mindmap
  어디까지 헸어요?
 </details>
 
+### 언제
 
