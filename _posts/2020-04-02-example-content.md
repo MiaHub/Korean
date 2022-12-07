@@ -8,25 +8,6 @@ title: Example content
 * [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 * [Mermaid-Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 
-<pre class="mermaid">
-mindmap
-  root((mindmap))
-    오늘
-      today
-      Popularisation
-      British popular psychology author Tony Buzan
-    내일
-      tomorrow
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    어제
-      yesterday
-      Mermaid
-</pre>
-
 <details><summary>Does work</summary>
   Does it ?
 </details>
