@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<script type="module">
-  import mermaid from 'https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs';
-  import mindmap from 'https://unpkg.com/@mermaid-js/mermaid-mindmap@9/dist/mermaid-mindmap.esm.min.mjs';
-  //await mermaid.registerExternalDiagrams([mindmap]);    
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
