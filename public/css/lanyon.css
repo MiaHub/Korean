@@ -604,8 +604,7 @@ a.pagination-item:hover {
 
 .parallax {
   /* The image used */
-  background-image: url("https://miahub.github.io/Korean/public/Images/LibraryStar1.jpg");
-  /*background-image: url("/public/images/LibraryStar1.jpg");
+  background-image: url("https://miahub.github.io/Korean/public/images/LibraryStar1.jpg");
 
   /* Set a specific height */
   min-height: 500px;
