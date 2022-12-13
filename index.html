@@ -3,15 +3,11 @@ layout: default
 title: Home
 ---
 
-<script type="module">
-  import mermaid from 'https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs';
-  import mindmap from 'https://unpkg.com/@mermaid-js/mermaid-mindmap@9/dist/mermaid-mindmap.esm.min.mjs';
-  await mermaid.registerExternalDiagrams([mindmap]);    
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
 <div class="posts">
   {% for post in paginator.posts %}
+
+  <div class="full-width parallax"> </div>
+
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">

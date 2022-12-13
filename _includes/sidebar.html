@@ -16,6 +16,10 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
+    <button class="sidebar-nav-item dropdown-btn">Dropdown          
+      <i class="fa fa-caret-down"></i>                  
+    </button>
+    <div class="sidebar-nav-item dropdown-container">
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
@@ -24,6 +28,9 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    </div>
+
+    
 
     <a class="sidebar-nav-item" href="https://www.youtube.com/watch?v=iMYMWTgJRkA&list=PLJ8SeVAoE0L72dboTrhOhYfJLK34oHjd9">Korean Full Course</a>
     <a class="sidebar-nav-item" href="https://translate.google.com/?sl=en&tl=ko&op=translate">Google Translate</a>
