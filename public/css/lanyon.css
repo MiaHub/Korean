@@ -606,7 +606,7 @@ a.pagination-item:hover {
   /* The image used */
   /*background-image: url("https://miahub.github.io/Korean/public/Images/LibraryStar1.jpg");*/
 
-  background-image: url("/public/Images/LibraryStar1.jpg");
+  background-image: url("../../public/Images/LibraryStar1.jpg");
 
   /* Set a specific height */
   min-height: 500px;
@@ -616,4 +616,11 @@ a.pagination-item:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;  
+}
+
+/* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
 }
