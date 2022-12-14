@@ -57,3 +57,22 @@ mindmap
 
 ### 언제
 
+<details>
+<summary>When is your birthday?</summary>
+ 셍일은 언제입니까?
+</details>
+
+<details>
+<summary>When did you buy this?</summary>
+ 이것을 언제 샀습니까?
+</details>
+
+<details>
+<summary>Since when have you been learning Korean?</summary>
+ 한국어를 언제부터 공부합니까?
+</details>
+
+<details>
+<summary>Until when are you going to ignore me?</summary>
+ 언제까지 저를 무시하겠스니까?
+</details>
