@@ -7,6 +7,7 @@ title: Questions
 * [When](#언제)
 * [Why](#왜)
 * [How "much"](#얼마)
+* [How "much"](#몇)
 
 <pre class="mermaid">
 mindmap
@@ -117,4 +118,26 @@ mindmap
 <details>
 <summary>It is so delicious! / (you don't know) how much delicious it is!</summary>
  얼마나 맛있는데요!
+</details>
+
+### 몇
+
+<details>
+<summary>How old are you?</summary>
+ 몇 살입니까?
+</details>
+
+<details>
+<summary>What (how much) time (hours) is it now?</summary>
+ 지금 몇 시입니까?
+</details>
+
+<details>
+<summary>How many days?</summary>
+ 며칠입니까?
+</details>
+
+<details>
+<summary>How many (pieces of) smart phones did you buy?</summary>
+ 스마트폰 몇 대 샀습니까?
 </details>
