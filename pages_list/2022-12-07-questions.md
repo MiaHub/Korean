@@ -8,6 +8,12 @@ title: Questions
 * [Why](#왜)
 * [How "much"](#얼마)
 * [How "much"](#몇)
+* [What](#무엇)
+* [Which among](#어느)
+* [What unspecific](#모슨)
+* [What specific](#어떤)
+* [Who](#누구)
+* [How](#어떻습니까)
 
 <pre class="mermaid">
 mindmap
@@ -141,3 +147,95 @@ mindmap
 <summary>How many (pieces of) smart phones did you buy?</summary>
  스마트폰 몇 대 샀습니까?
 </details>
+
+### 무엇 ( can be used with Postpositions)
+
+What in particular ?
+
+<details>
+<summary>What is this?</summary>
+ 이것은 무엇입니까?
+</details>
+
+<details>
+<summary>What did you use(by/with what) to draw this picture?</summary>
+ 이그림을 무엇으로 그렸습니까?
+</details>
+
+<details>
+<summary>What did you receive?</summary>
+ 무엇을 받았습니까?
+</details>
+
+### 어느
+
+Which one among/between ?
+
+<details>
+<summary>Where are you from? / What country person are you ?</summary>
+ 어느 나라 사람입니까?
+</details>
+
+### 무슨
+
+What less specific ?
+
+<details>
+<summary>What book are you looking for ?</summary>
+ 무슨 책을 찾습니까?
+</details>
+
+### 어떤
+
+What more specific ?
+
+<details>
+<summary>What kind of book are you looking for ?</summary>
+ 어떤 책을 찻습니까?
+</details>
+
+<details>
+<summary>What kind of book are you looking for ?</summary>
+ 어떤 사람을 좋아합니까?
+</details>
+
+### 누구
+
+<details>
+<summary>Who is that person ?</summary>
+ 그사람은 누구입니까?
+</details>
+
+<details>
+<summary>Who is the smartest ?</summary>
+ 누가 제일 똑똑합니까? 
+</details>
+
+<details>
+<summary>Who did you see ?</summary>
+ 누구를 봤습니까?
+</details>
+
+<details>
+<summary>Who did you give that book to ?</summary>
+ 저 책을 누구한테 줬습니까?
+</details>
+
+### 어떻습니까 / 어때요
+
+no action word
+
+<details>
+<summary>How is the weather ?</summary>
+ 나시가 어떻습니까 / 어때요 ?
+</details>
+
+### 어떻습니까
+
+action word 
+
+<details>
+<summary>How do you learn Korean ?</summary>
+ 항국어를 어떻개 겅부합니까?
+</details>
+
