@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "e545b7ceb84004ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fc13c80f56aaae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb92e6b2daee1336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-01-12-music.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad1594c231dc260d",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b1df6bbbeb4bc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b790a376a30c0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29bec8ad10db29e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aadc4c9810140d15",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddb86cda77e4b287",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c6cab35852c009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0a043b8c0939d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-01-12-music.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c86f51860479407d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-01-12-music.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0109ebbe996764df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "281ee8178aee3927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-01-12-music.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb92e6b2daee1336",
+  "lastOpenFiles": [
+    "_posts/2022-12-27-ba.md",
+    "_posts/2023-01-12-music.md",
+    "_posts/2020-04-02-example-content.md",
+    "README.md",
+    "LICENSE.md",
+    "about.md",
+    "CanvasBrains/Leer 4.pdf",
+    "CanvasBrains/Pasted image 20230112221932.png",
+    "CanvasBrains/Pasted image 20230112221805.png",
+    "CanvasBrains/Brainstorming.canvas"
+  ]
+}
