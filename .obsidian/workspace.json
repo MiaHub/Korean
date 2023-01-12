@@ -11,11 +11,15 @@
             "id": "bb92e6b2daee1336",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_posts/2023-01-12-music.md",
-                "mode": "source",
-                "source": false
+                "file": "CanvasBrains/Brainstorming.canvas",
+                "viewState": {
+                  "x": 262.5,
+                  "y": 76.49999999999999,
+                  "zoom": -0.11940676330665206,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-12-music.md",
+                "file": "CanvasBrains/Brainstorming.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-12-music.md",
+                "file": "CanvasBrains/Brainstorming.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-12-music.md"
+                "file": "CanvasBrains/Brainstorming.canvas"
               }
             }
           }
@@ -148,15 +152,15 @@
   },
   "active": "bb92e6b2daee1336",
   "lastOpenFiles": [
-    "_posts/2022-12-27-ba.md",
+    "CanvasBrains/Pasted image 20230112234655.png",
+    "CanvasBrains/Brainstorming.canvas",
     "_posts/2023-01-12-music.md",
+    "_posts/2022-12-27-ba.md",
     "_posts/2020-04-02-example-content.md",
     "README.md",
     "LICENSE.md",
     "about.md",
     "CanvasBrains/Leer 4.pdf",
-    "CanvasBrains/Pasted image 20230112221932.png",
-    "CanvasBrains/Pasted image 20230112221805.png",
-    "CanvasBrains/Brainstorming.canvas"
+    "CanvasBrains/Pasted image 20230112221932.png"
   ]
 }

@@ -1,8 +1,9 @@
 {
 	"nodes":[
 		{"id":"9931b85e4af03476","x":-301,"y":-280,"width":400,"height":316,"type":"file","file":"CanvasBrains/Pasted image 20230112221805.png"},
-		{"id":"c8ba9335f0997c41","x":-301,"y":254,"width":400,"height":179,"type":"file","file":"CanvasBrains/Pasted image 20230112221932.png"},
-		{"id":"ea82ec3bb41446b9","x":426,"y":-280,"width":400,"height":400,"type":"file","file":"CanvasBrains/Leer 4.pdf"}
+		{"id":"c8ba9335f0997c41","x":-301,"y":254,"width":399,"height":179,"type":"file","file":"CanvasBrains/Pasted image 20230112221932.png"},
+		{"id":"ea82ec3bb41446b9","x":426,"y":-280,"width":400,"height":400,"type":"file","file":"CanvasBrains/Leer 4.pdf"},
+		{"id":"93ab559dc825213d","x":253,"y":202,"width":289,"height":400,"type":"file","file":"CanvasBrains/Pasted image 20230112234655.png"}
 	],
 	"edges":[]
 }
