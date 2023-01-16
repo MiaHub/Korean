@@ -11,15 +11,11 @@
             "id": "bb92e6b2daee1336",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas",
-                "viewState": {
-                  "x": 262.5,
-                  "y": 76.49999999999999,
-                  "zoom": -0.11940676330665206,
-                  "snapToGrid": false
-                }
+                "file": "_posts/2022-12-27-ba.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas",
+                "file": "_posts/2022-12-27-ba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas",
+                "file": "_posts/2022-12-27-ba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas"
+                "file": "_posts/2022-12-27-ba.md"
               }
             }
           }
@@ -152,8 +148,8 @@
   },
   "active": "bb92e6b2daee1336",
   "lastOpenFiles": [
-    "CanvasBrains/Pasted image 20230112234655.png",
     "CanvasBrains/Brainstorming.canvas",
+    "CanvasBrains/Pasted image 20230112234655.png",
     "_posts/2023-01-12-music.md",
     "_posts/2022-12-27-ba.md",
     "_posts/2020-04-02-example-content.md",
