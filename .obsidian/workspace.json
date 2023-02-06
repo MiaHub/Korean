@@ -23,11 +23,15 @@
             "id": "e446efaa87d84598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_posts/2023-02-06-must.md",
-                "mode": "source",
-                "source": false
+                "file": "CanvasBrains/Brainstorming.canvas",
+                "viewState": {
+                  "x": 262.5,
+                  "y": 161,
+                  "zoom": -0.42628334242028454,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-06-must.md",
+                "file": "CanvasBrains/Brainstorming.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-06-must.md",
+                "file": "CanvasBrains/Brainstorming.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-06-must.md"
+                "file": "CanvasBrains/Brainstorming.canvas"
               }
             }
           }
@@ -161,11 +165,11 @@
   },
   "active": "e446efaa87d84598",
   "lastOpenFiles": [
+    "_posts/2023-02-06-must.md",
     "_posts/2022-11-29-if.md",
     "_posts/2022-12-04-postpositions.md",
     "_posts/2022-12-06-imperative.md",
     "_posts/2022-12-27-ba.md",
-    "_posts/2023-02-06-must.md",
     "README.md",
     "LICENSE.md",
     "about.md",
