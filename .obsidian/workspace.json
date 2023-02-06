@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-27-ba.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e446efaa87d84598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-06-must.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-27-ba.md",
+                "file": "_posts/2023-02-06-must.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-27-ba.md",
+                "file": "_posts/2023-02-06-must.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-27-ba.md"
+                "file": "_posts/2023-02-06-must.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb92e6b2daee1336",
+  "active": "e446efaa87d84598",
   "lastOpenFiles": [
-    "CanvasBrains/Brainstorming.canvas",
-    "CanvasBrains/Pasted image 20230112234655.png",
-    "_posts/2023-01-12-music.md",
+    "_posts/2022-11-29-if.md",
+    "_posts/2022-12-04-postpositions.md",
+    "_posts/2022-12-06-imperative.md",
     "_posts/2022-12-27-ba.md",
-    "_posts/2020-04-02-example-content.md",
+    "_posts/2023-02-06-must.md",
     "README.md",
     "LICENSE.md",
     "about.md",
-    "CanvasBrains/Leer 4.pdf",
-    "CanvasBrains/Pasted image 20230112221932.png"
+    "404.md",
+    "CanvasBrains/Leer 4.pdf"
   ]
 }
