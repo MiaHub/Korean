@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2023-02-07-while.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas",
+                "file": "_posts/2023-02-07-while.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas",
+                "file": "_posts/2023-02-07-while.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CanvasBrains/Brainstorming.canvas"
+                "file": "_posts/2023-02-07-while.md"
               }
             }
           }
@@ -163,17 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e446efaa87d84598",
+  "active": "bb92e6b2daee1336",
   "lastOpenFiles": [
     "_posts/2023-02-06-must.md",
+    "_posts/2023-02-07-while.md",
+    "_posts/2022-12-27-ba.md",
+    "README.md",
+    "CanvasBrains/Brainstorming.canvas",
     "_posts/2022-11-29-if.md",
     "_posts/2022-12-04-postpositions.md",
     "_posts/2022-12-06-imperative.md",
-    "_posts/2022-12-27-ba.md",
-    "README.md",
     "LICENSE.md",
-    "about.md",
-    "404.md",
-    "CanvasBrains/Leer 4.pdf"
+    "about.md"
   ]
 }
